@@ -53,7 +53,7 @@ Hoje me encontro em transição de carreira para a área de desenvolvimento de s
 
 ## Estatísticas do GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rldcarvalho&layout=compact&theme=dracula&custom_title=Linguagens%20Mais%20Utilizadas&exclude_repo=exercicios-js-pong,exercicios-js-crossroad,exercicios-python-collections)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rldcarvalho&layout=compact&theme=dracula&custom_title=Linguagens%20Mais%20Utilizadas&exclude_repo=exercicios-js-pong,exercicios-js-crossroad,exercicios-python-collections,exercicios-java-alura/tree/main/java-lang)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
