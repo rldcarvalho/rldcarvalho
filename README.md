@@ -51,7 +51,8 @@ Hoje me encontro em transição de carreira para a área de desenvolvimento de s
 
 ## Áreas de Interesse:
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ## Estatísticas do GitHub
 
