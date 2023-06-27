@@ -1,4 +1,4 @@
-# Olá, eu sou o Rafael Carvalho 👋
+# Olá, eu sou o Rafael Carvalho 👋 <br> Desenvolvedor Full-Stack
 [![LinkedIn](https://img.shields.io/badge/rldcarvalho-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rldcarvalho/)
 [![Instagram](https://img.shields.io/badge/rldcarvalho-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rldcarvalho/)
 [![Gmail](https://img.shields.io/badge/rldcarvalhoo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rldcarvalhoo@gmail.com)
@@ -16,6 +16,7 @@ Hoje me encontro em transição de carreira para a área de desenvolvimento de s
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ## Outros Conhecimentos:
 
@@ -46,7 +47,6 @@ Hoje me encontro em transição de carreira para a área de desenvolvimento de s
 
 ## Estudando no Momento:
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ## Áreas de Interesse:
@@ -56,6 +56,3 @@ Hoje me encontro em transição de carreira para a área de desenvolvimento de s
 ## Estatísticas do GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rldcarvalho&layout=compact&theme=dracula&custom_title=Linguagens%20Mais%20Utilizadas&exclude_repo=exercicios-js-pong,exercicios-js-crossroad,exercicios-python-collections,exercicios-java-alura/tree/main/java-lang)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
